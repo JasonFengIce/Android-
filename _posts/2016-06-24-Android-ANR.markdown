@@ -5,9 +5,12 @@ date:   2016-06-24 14:22:57 +0800
 categories: jekyll update
 ---
 导致ANR的原因:
+
 No response to an input event (such as key press or screen touch events) within 5 seconds.
 
 A BroadcastReceiver hasn't finished executing within 10 seconds.
+
+
 
 {% highlight ruby %}
 def print_hi(name)
