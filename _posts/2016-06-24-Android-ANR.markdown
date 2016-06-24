@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android-ANR"
-date:   2016-06-24
+date:   2016-06-24 14:22:57 +0800
 categories: jekyll update
 ---
 导致ANR的原因:
