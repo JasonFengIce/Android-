@@ -1,0 +1,12 @@
+---
+layout: post
+title:  anr
+date:   2016-6-29
+categories: jekyll update
+---
+
+导致anr的原因
+
+* 
+
+* 
